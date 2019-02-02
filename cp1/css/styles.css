@@ -1,0 +1,24 @@
+.container img{
+  width: 500px;
+  height: auto;
+}
+img{
+  width: 500px;
+  height: auto;
+}
+.sidebar-sticky{
+  background-color: #CCCCCC !important;
+}
+footer{
+  text-align: center !important;
+  background-color: #CCCCCC !important;
+}
+
+.h3 {
+  text-align: center !important;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+
+}
+.p {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
