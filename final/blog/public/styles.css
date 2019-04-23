@@ -1,0 +1,23 @@
+body {
+  font-size: 16px;
+  padding: 20px 100px 0px 100px;
+  background: #E8F2FF;
+}
+
+.pure-menu-active>.pure-menu-link, .pure-menu-link:focus, .pure-menu-link:hover {
+  background-color: inherit;
+  color: #4E6389;
+}
+
+.pure-menu-disabled, .pure-menu-heading, .pure-menu-link {
+  padding: .5em 1em .5em 0em;
+}
+.upload {
+    background-color: #FFDB8F;
+}
+.blog {
+    background-color: #FFDB8F;
+}
+.blog .title{
+    text-align: center;
+}

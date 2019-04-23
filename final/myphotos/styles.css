@@ -1,0 +1,32 @@
+/*color scheme from Adobe Color, analogous centered on #CFC6FF*/
+
+body {
+  font-family: 'Gamja Flower', cursive;
+  font-size: 16px;
+  padding: 20px 100px 0px 100px;
+  background: #CFC6FF;
+}
+h1 {
+	text-align: center;
+	background-color: #A9B1E8;	
+}
+.column {
+	background-color: #BAD4FF;
+}
+/* List */
+ul {
+  list-style: none;
+}
+
+li {
+  text-align: center;
+  margin: auto;
+  width: 350px;
+  background-color: #C4A9E8 !important;
+  border: 1px solid black;
+}
+
+img {
+  width: 75%;
+  padding: 10px;
+}
